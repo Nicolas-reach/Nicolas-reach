@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-verde-aco.svg",
+  "backgroundColor": "#0d1110",
+  "foregroundColor": "#d4dcd8",
+  "strongColor": "#7bd88f",
+  "weakColor": "#6f7b76",
+  "radarColor": "#43a047",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1c2420",
+    "#1f4d2b",
+    "#2e7d32",
+    "#43a047",
+    "#7bd88f"
+  ]
+}

@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="460" height="440" viewBox="0 0 460 440">
+<defs>
+<linearGradient id="steel" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#d4dcd8"/><stop offset="0.5" stop-color="#9aa7a1"/><stop offset="1" stop-color="#5d6964"/></linearGradient>
+<radialGradient id="fill"><stop offset="0" stop-color="#7bd88f" stop-opacity="0.55"/><stop offset="1" stop-color="#43a047" stop-opacity="0.25"/></radialGradient>
+<filter id="glow"><feGaussianBlur stdDeviation="2.5" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+<style>.lbl{font:600 13px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;fill:#d4dcd8}.val{font:700 12px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;fill:#7bd88f}.rng{font:9px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;fill:#5d6964}@keyframes grow{from{transform:scale(0)}to{transform:scale(1)}}.shape{transform-origin:230px 255px;animation:grow 1.2s ease-out}</style>
+</defs>
+<rect x="1" y="1" width="458" height="438" rx="14" fill="#0d1110" stroke="url(#steel)" stroke-width="2"/>
+<text x="24" y="38" style="font:700 17px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;fill:#d4dcd8;letter-spacing:2px">ACTIVITY</text>
+<text x="24" y="58" style="font:12px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;fill:#9aa7a1">4.1k contributions in the last year</text>
+<line x1="24" y1="68" x2="436" y2="68" stroke="#1b5e20" stroke-width="2"/>
+<polygon points="230.0,140.0 329.6,197.5 329.6,312.5 230.0,370.0 130.4,312.5 130.4,197.5" fill="#121816"/>
+<polygon points="230.0,226.2 254.9,240.6 254.9,269.4 230.0,283.8 205.1,269.4 205.1,240.6" fill="none" stroke="#2a3530" stroke-width="1"/>
+<text class="rng" x="234.0" y="229.2">10</text>
+<polygon points="230.0,197.5 279.8,226.2 279.8,283.8 230.0,312.5 180.2,283.8 180.2,226.2" fill="none" stroke="#2a3530" stroke-width="1"/>
+<text class="rng" x="234.0" y="200.5">100</text>
+<polygon points="230.0,168.8 304.7,211.9 304.7,298.1 230.0,341.2 155.3,298.1 155.3,211.9" fill="none" stroke="#2a3530" stroke-width="1"/>
+<text class="rng" x="234.0" y="171.8">1k</text>
+<polygon points="230.0,140.0 329.6,197.5 329.6,312.5 230.0,370.0 130.4,312.5 130.4,197.5" fill="none" stroke="#2a3530" stroke-width="1"/>
+<text class="rng" x="234.0" y="143.0">10k</text>
+<line x1="230" y1="255" x2="230.0" y2="140.0" stroke="#2a3530" stroke-width="1"/>
+<line x1="230" y1="255" x2="329.6" y2="197.5" stroke="#2a3530" stroke-width="1"/>
+<line x1="230" y1="255" x2="329.6" y2="312.5" stroke="#2a3530" stroke-width="1"/>
+<line x1="230" y1="255" x2="230.0" y2="370.0" stroke="#2a3530" stroke-width="1"/>
+<line x1="230" y1="255" x2="130.4" y2="312.5" stroke="#2a3530" stroke-width="1"/>
+<line x1="230" y1="255" x2="130.4" y2="197.5" stroke="#2a3530" stroke-width="1"/>
+<g class="shape"><polygon points="230.0,154.5 295.1,217.4 264.4,274.8 230.0,291.8 192.5,276.6 167.0,218.6" fill="url(#fill)" stroke="#7bd88f" stroke-width="2" stroke-linejoin="round" filter="url(#glow)"/>
+<circle cx="230.0" cy="154.5" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
+<circle cx="295.1" cy="217.4" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
+<circle cx="264.4" cy="274.8" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
+<circle cx="230.0" cy="291.8" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
+<circle cx="192.5" cy="276.6" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
+<circle cx="167.0" cy="218.6" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
+</g>
+<text class="lbl" x="230.0" y="106.7" text-anchor="middle">Commits</text>
+<text class="val" x="230.0" y="121.7" text-anchor="middle">3.1k</text>
+<text class="lbl" x="351.5" y="184.9" text-anchor="start">Pull Requests</text>
+<text class="val" x="351.5" y="199.9" text-anchor="start">412</text>
+<text class="lbl" x="351.5" y="325.1" text-anchor="start">Issues</text>
+<text class="val" x="351.5" y="340.1" text-anchor="start">23</text>
+<text class="lbl" x="230.0" y="401.3" text-anchor="middle">Reviews</text>
+<text class="val" x="230.0" y="416.3" text-anchor="middle">18</text>
+<text class="lbl" x="108.5" y="325.2" text-anchor="end">Repositories</text>
+<text class="val" x="108.5" y="340.2" text-anchor="end">31</text>
+<text class="lbl" x="108.5" y="184.8" text-anchor="end">Stars</text>
+<text class="val" x="108.5" y="199.8" text-anchor="end">337</text>
+</svg>
