@@ -20,24 +20,24 @@
 <line x1="230" y1="255" x2="230.0" y2="370.0" stroke="#2a3530" stroke-width="1"/>
 <line x1="230" y1="255" x2="130.4" y2="312.5" stroke="#2a3530" stroke-width="1"/>
 <line x1="230" y1="255" x2="130.4" y2="197.5" stroke="#2a3530" stroke-width="1"/>
-<g class="shape"><polygon points="230.0,140.0 290.1,220.3 278.4,283.0 230.0,289.7 203.1,270.5 206.7,241.6" fill="url(#fill)" stroke="#7bd88f" stroke-width="2" stroke-linejoin="round" filter="url(#glow)"/>
+<g class="shape"><polygon points="230.0,140.0 288.8,221.1 285.3,286.9 230.0,313.3 183.7,281.7 187.2,230.3" fill="url(#fill)" stroke="#7bd88f" stroke-width="2" stroke-linejoin="round" filter="url(#glow)"/>
 <circle cx="230.0" cy="140.0" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
-<circle cx="290.1" cy="220.3" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
-<circle cx="278.4" cy="283.0" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
-<circle cx="230.0" cy="289.7" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
-<circle cx="203.1" cy="270.5" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
-<circle cx="206.7" cy="241.6" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
+<circle cx="288.8" cy="221.1" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
+<circle cx="285.3" cy="286.9" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
+<circle cx="230.0" cy="313.3" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
+<circle cx="183.7" cy="281.7" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
+<circle cx="187.2" cy="230.3" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
 </g>
-<text class="lbl" x="230.0" y="106.7" text-anchor="middle">CSS</text>
-<text class="val" x="230.0" y="121.7" text-anchor="middle">55.0%</text>
-<text class="lbl" x="351.5" y="184.9" text-anchor="start">HTML</text>
-<text class="val" x="351.5" y="199.9" text-anchor="start">20.0%</text>
-<text class="lbl" x="351.5" y="325.1" text-anchor="start">Jupyter</text>
-<text class="val" x="351.5" y="340.1" text-anchor="start">13.0%</text>
-<text class="lbl" x="230.0" y="401.3" text-anchor="middle">Java</text>
-<text class="val" x="230.0" y="416.3" text-anchor="middle">5.0%</text>
-<text class="lbl" x="108.5" y="325.2" text-anchor="end">Python</text>
-<text class="val" x="108.5" y="340.2" text-anchor="end">4.0%</text>
-<text class="lbl" x="108.5" y="184.8" text-anchor="end">JavaScript</text>
-<text class="val" x="108.5" y="199.8" text-anchor="end">3.0%</text>
+<text class="lbl" x="230.0" y="106.7" text-anchor="middle">HTML</text>
+<text class="val" x="230.0" y="121.7" text-anchor="middle">43.2%</text>
+<text class="lbl" x="351.5" y="184.9" text-anchor="start">CSS</text>
+<text class="val" x="351.5" y="199.9" text-anchor="start">15.1%</text>
+<text class="lbl" x="351.5" y="325.1" text-anchor="start">JavaScript</text>
+<text class="val" x="351.5" y="340.1" text-anchor="start">13.3%</text>
+<text class="lbl" x="230.0" y="401.3" text-anchor="middle">Python</text>
+<text class="val" x="230.0" y="416.3" text-anchor="middle">11.1%</text>
+<text class="lbl" x="108.5" y="325.2" text-anchor="end">C++</text>
+<text class="val" x="108.5" y="340.2" text-anchor="end">9.3%</text>
+<text class="lbl" x="108.5" y="184.8" text-anchor="end">Java</text>
+<text class="val" x="108.5" y="199.8" text-anchor="end">8.0%</text>
 </svg>
