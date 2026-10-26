@@ -7,7 +7,7 @@
 </defs>
 <rect x="1" y="1" width="458" height="438" rx="14" fill="#0d1110" stroke="url(#steel)" stroke-width="2"/>
 <text x="24" y="38" style="font:700 17px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;fill:#d4dcd8;letter-spacing:2px">ACTIVITY</text>
-<text x="24" y="58" style="font:12px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;fill:#9aa7a1">210 contributions in the last year</text>
+<text x="24" y="58" style="font:12px 'Segoe UI', 'Helvetica Neue', Arial, sans-serif;fill:#9aa7a1">208 contributions in the last year</text>
 <line x1="24" y1="68" x2="436" y2="68" stroke="#1b5e20" stroke-width="2"/>
 <polygon points="230.0,140.0 329.6,197.5 329.6,312.5 230.0,370.0 130.4,312.5 130.4,197.5" fill="#121816"/>
 <polygon points="230.0,226.2 254.9,240.6 254.9,269.4 230.0,283.8 205.1,269.4 205.1,240.6" fill="none" stroke="#2a3530" stroke-width="1"/>
@@ -24,8 +24,8 @@
 <line x1="230" y1="255" x2="230.0" y2="370.0" stroke="#2a3530" stroke-width="1"/>
 <line x1="230" y1="255" x2="130.4" y2="312.5" stroke="#2a3530" stroke-width="1"/>
 <line x1="230" y1="255" x2="130.4" y2="197.5" stroke="#2a3530" stroke-width="1"/>
-<g class="shape"><polygon points="230.0,190.3 256.9,239.5 232.0,256.1 230.0,257.3 195.2,275.1 228.0,253.8" fill="url(#fill)" stroke="#7bd88f" stroke-width="2" stroke-linejoin="round" filter="url(#glow)"/>
-<circle cx="230.0" cy="190.3" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
+<g class="shape"><polygon points="230.0,190.4 256.9,239.5 232.0,256.1 230.0,257.3 195.2,275.1 228.0,253.8" fill="url(#fill)" stroke="#7bd88f" stroke-width="2" stroke-linejoin="round" filter="url(#glow)"/>
+<circle cx="230.0" cy="190.4" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
 <circle cx="256.9" cy="239.5" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
 <circle cx="232.0" cy="256.1" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
 <circle cx="230.0" cy="257.3" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
@@ -33,7 +33,7 @@
 <circle cx="228.0" cy="253.8" r="3.5" fill="#0d1110" stroke="#7bd88f" stroke-width="2"/>
 </g>
 <text class="lbl" x="230.0" y="106.7" text-anchor="middle">Commits</text>
-<text class="val" x="230.0" y="121.7" text-anchor="middle">177</text>
+<text class="val" x="230.0" y="121.7" text-anchor="middle">176</text>
 <text class="lbl" x="351.5" y="184.9" text-anchor="start">Pull Requests</text>
 <text class="val" x="351.5" y="199.9" text-anchor="start">11</text>
 <text class="lbl" x="351.5" y="325.1" text-anchor="start">Issues</text>
